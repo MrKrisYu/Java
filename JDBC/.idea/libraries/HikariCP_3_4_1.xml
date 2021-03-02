@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HikariCP-3.4.1">
+    <CLASSES>
+      <root url="jar://F:/Java架构师的自我修养/Java后端工程师资料/java-master/database/code/数据库连接池/hikariCP/HikariCP-3.4.1.jar!/" />
+      <root url="jar://F:/Java架构师的自我修养/Java后端工程师资料/java-master/database/code/数据库连接池/hikariCP/slf4j-api-2.0.0-alpha1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

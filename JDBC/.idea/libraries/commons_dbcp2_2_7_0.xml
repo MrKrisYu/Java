@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-dbcp2-2.7.0">
+    <CLASSES>
+      <root url="jar://F:/Java架构师的自我修养/Java后端工程师资料/java-master/database/code/数据库连接池/dbcp/commons-dbcp2-2.7.0/commons-dbcp2-2.7.0.jar!/" />
+      <root url="jar://F:/Java架构师的自我修养/Java后端工程师资料/java-master/database/code/数据库连接池/dbcp/commons-pool2-2.3.jar!/" />
+      <root url="jar://F:/Java架构师的自我修养/Java后端工程师资料/java-master/database/code/数据库连接池/dbcp/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

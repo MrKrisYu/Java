@@ -1,0 +1,1 @@
+Krisyu tests the I/O stream

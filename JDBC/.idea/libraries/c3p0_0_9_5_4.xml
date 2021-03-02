@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.4">
+    <CLASSES>
+      <root url="jar://F:/Java架构师的自我修养/Java后端工程师资料/java-master/database/code/数据库连接池/c3p0/c3p0-0.9.5.4.jar!/" />
+      <root url="jar://F:/Java架构师的自我修养/Java后端工程师资料/java-master/database/code/数据库连接池/c3p0/mchange-commons-java-0.2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
